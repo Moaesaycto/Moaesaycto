@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Mathematics, Origami and Computer Science
 
-- 🌱 I’m currently a student at UNSW Sydney studying an Honours degree in Advanced Mathematics and a Bachelors in Computer Science
+- 🌱 I’m currently a student at UNSW Sydney studying Mathematics and Computer Science
 
 - 📫 How to reach me: Feel free to reach out on:
       – Instagram: stephen_los_
