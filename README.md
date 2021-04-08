@@ -4,7 +4,7 @@
 
 * 🌱 I’m currently a student at UNSW Sydney studying Mathematics and Computer Science
 
-* 📫 How to reach me: Feel free to reach out on:\
+* 📫 How to reach me: Feel free to reach out on:
 > Instagram: stephen_los_\
 > Discord: Moaesaycto#2763\
 > Email: Find it elsewhere
