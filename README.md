@@ -1,4 +1,4 @@
-* 👋 Hi, I’m @Moaesaycto
+* 👋 Hi, I’m @Moæsaycto
 
 * 👀 I’m interested in Mathematics, Origami and Computer Science
 
@@ -6,7 +6,7 @@
 
 * 📫 How to reach me: Feel free to reach out on:
 > Instagram: stephen_los_\
-> Discord: Moaesaycto#2763\
+> Discord: Moæsaycto#2763\
 > Email: Find it elsewhere
 
 <!---
