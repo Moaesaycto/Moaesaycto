@@ -2,7 +2,7 @@
 
 * 👀 I’m interested in Mathematics, Origami and Computer Science
 
-* 🌱 I’m currently a student at UNSW Sydney studying Mathematics and Computer Science
+* 🌱 I’m currently a student studying Applied Mathematics and Computer Science
 
 <!---
 Moaesaycto/Moaesaycto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
