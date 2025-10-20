@@ -2,6 +2,8 @@
 
 Hi, I'm Moae. I like to make stuff. For a more detailed list of my projects, you should visit my website: [moae.dev](https://moaesaycto.github.io/). Below is a list of all repositories that may be of interest. Feel free to reach out to me over on my website if you would like to know more.
 
+Please note that these links are only to find the **source code** for my projects. If you want to see them in practice, head over to the [projects page on my website](https://moaesaycto.github.io/projects).
+
 ## Projects
 ### Education
 - [AI Game Portal](https://github.com/Moaesaycto/ai-games) ⚡
@@ -25,7 +27,7 @@ Hi, I'm Moae. I like to make stuff. For a more detailed list of my projects, you
 
 ### Utilities
 - [Capture the Flag](https://github.com/Moaesaycto/Capture-The-Flag) 🐍⚡🌐
-- ~~<span title="Obsolete Project">[Diet Generating System](https://github.com/Moaesaycto/rationing)</span>~~ ⚡
+- [Diet Generating System](https://github.com/Moaesaycto/rationing) 🐍
 - [My Keto Recipes](https://github.com/Moaesaycto/moaes-recipes) ⚡
 - [Project Template](https://github.com/Moaesaycto/project-template) ⚡
 - 🔒 ~~<span title="Obsolete Project">[The LATMATH Project](https://github.com/Moaesaycto/LATMATH-Project)</span>~~ 🌐🐍
@@ -52,7 +54,7 @@ Hi, I'm Moae. I like to make stuff. For a more detailed list of my projects, you
 - ⭐🔒 [My Website](https://github.com/Moaesaycto/moaesaycto.github.io) ⚡
 - ~~<span title="Obsolete Project">[My Website (Old)](https://github.com/Moaesaycto/oldsite)</span>~~ 🌐⚡
 - ~~<span title="Obsolete Project">[Old Blog](https://github.com/Moaesaycto/moaesaycto-blog)</span>~~ 🌐
-- ~~<span title="Obsolete Project">[Old Welcoming Page](https://github.com/Moaesaycto/moaes)</span>~~ 🌐
+- ~~<span title="Obsolete Project">[My Even Older Website](https://github.com/Moaesaycto/moaes)</span>~~ 🌐
 
 ---
 
