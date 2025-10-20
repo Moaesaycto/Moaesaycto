@@ -34,8 +34,18 @@ Hi, I'm Moae. I like to make stuff. For a more detailed list of my projects, you
 - [Workflows](https://github.com/Moaesaycto/workflows)
 
 ## University
+- [Computer System Fundamentals Notes](https://github.com/moaesaycto/comp1521-notes)
+- [Filtered Strings (`string_view`)](https://github.com/moaesaycto/filtered-strings)
+- [General Directed Weighted Graph](https://github.com/moaesaycto/general-directed-weighted-graph)
 - [Mathematical Computing (Lorenz, IRK4, Euler)](https://github.com/Moaesaycto/math2301-grpprog) 🔒
 - [Optimisation Exam Generation](https://github.com/Moaesaycto/ExamGenerator)
+- [Paint in C (Arrays)](https://github.com/Moaesaycto/paint-in-c)
+- [Mipstermind](https://github.com/moaesaycto/mipstermind)
+- [MyGive (Custom give command)](https://github.com/moaesaycto/mygive)
+- [MyGit (Custom Git clone)](https://github.com/moaesaycto/mygit)
+- [Spotify in C (LLs)](https://github.com/moaesaycto/spotify-in-c)
+- [Suballocator](https://github.com/moaesaycto/suballocator-example)
+- [Word Ladder](https://github.com/moaesaycto/word-ladder)
 
 ## Miscellaneous
 - [Character Idea Generator](https://github.com/Moaesaycto/Character-Gen)
