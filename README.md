@@ -28,6 +28,7 @@ Please note that these links are only to find the **source code** for my project
 ### Utilities
 - [Capture the Flag](https://github.com/Moaesaycto/Capture-The-Flag) 🐍⚡🌐
 - [Diet Generating System](https://github.com/Moaesaycto/rationing) 🐍
+- [LaTeX Diagram Archive](https://github.com/Moaesaycto/LaTeX-Diagram-Archive) 📚
 - [My Keto Recipes](https://github.com/Moaesaycto/moaes-recipes) ⚡
 - [Project Template](https://github.com/Moaesaycto/project-template) ⚡
 - 🔒 ~~<span title="Obsolete Project">[The LATMATH Project](https://github.com/Moaesaycto/LATMATH-Project)</span>~~ 🌐🐍
@@ -45,6 +46,7 @@ Please note that these links are only to find the **source code** for my project
 - 🔒 [Mathematical Computing (Lorenz, IRK4, Euler)](https://github.com/Moaesaycto/math2301-grpprog) 📈🌐
 - ⭐ [Optimisation Exam Generation](https://github.com/Moaesaycto/ExamGenerator) 🐍📚
 - [Paint in C (Arrays)](https://github.com/Moaesaycto/paint-in-c) ⚙️
+- [Price Prediction with AI](https://github.com/Moaesaycto/Price-Prediction-with-AI) 🐍
 - [Map (ADT)](https://github.com/Moaesaycto/Map-ADT) ⚙️
 - [Mipstermind](https://github.com/moaesaycto/mipstermind) 🧱
 - [MyGive (Custom give command)](https://github.com/moaesaycto/mygive) 🐚
