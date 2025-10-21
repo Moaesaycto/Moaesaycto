@@ -118,4 +118,4 @@ Please note that these links are only to find the **source code** for my project
 </tr>
 </table>
 
-> <small>Private repositories may be accessed upon request. Please get in contact over on [my website](https://moaesaycto.github.io) and we will discuss it over there.</small>
+> <small>\* Private repositories may be accessed upon request. Please get in contact over on [my website](https://moaesaycto.github.io) and we will discuss it over there.</small>
