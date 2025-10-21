@@ -36,6 +36,7 @@ Please note that these links are only to find the **source code** for my project
 - ⭐ [Workflows](https://github.com/Moaesaycto/workflows) ⚡
 
 ### University
+- ⭐ [Black Friday](https://github.com/Moaesaycto/BlackFriday) 🎮
 - [Computer System Fundamentals Notes](https://github.com/moaesaycto/comp1521-notes) ⚙️🧱
 - [Filtered Strings (`string_view`)](https://github.com/moaesaycto/filtered-strings) ⚙️
 - [General Directed Weighted Graph](https://github.com/moaesaycto/general-directed-weighted-graph) ⚙️
@@ -51,6 +52,7 @@ Please note that these links are only to find the **source code** for my project
 
 ### Miscellaneous
 - [Character Idea Generator](https://github.com/Moaesaycto/Character-Gen) 🐍🌐
+- [DK's Minigames (Minecraft Plugin)](https://github.com/Moaesaycto/DKsMinigames) ☕
 - ⭐🔒 [My Website](https://github.com/Moaesaycto/moaesaycto.github.io) ⚡
 - ~~<span title="Obsolete Project">[My Website (Old)](https://github.com/Moaesaycto/oldsite)</span>~~ 🌐⚡
 - ~~<span title="Obsolete Project">[Old Blog](https://github.com/Moaesaycto/moaesaycto-blog)</span>~~ 🌐
@@ -64,13 +66,14 @@ Please note that these links are only to find the **source code** for my project
 <tr>
 <td width="50%" valign="top">
 
-| **Symbol** | **Language** |
-| ---------- | ------------ |
-| 🐍          | Python       |
-| ☕          | Java         |
-| ⚡          | JS/TS        |
-| 🦀          | Rust         |
-| 🌐          | HTML/CSS     |
+| **Symbol** | **Language**  |
+| ---------- | ------------- |
+| 🐍          | Python        |
+| ☕          | Java          |
+| ⚡          | JS/TS         |
+| 🦀          | Rust          |
+| 🌐          | HTML/CSS      |
+| 🎮          | Unreal Engine |
 
 
 </td>
