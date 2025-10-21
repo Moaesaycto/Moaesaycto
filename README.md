@@ -36,16 +36,20 @@ Please note that these links are only to find the **source code** for my project
 - ⭐ [Workflows](https://github.com/Moaesaycto/workflows) ⚡
 
 ### University
+- [Algorithms Exercises](https://github.com/Moaesaycto/Algorithms-Exercises) 📚
 - ⭐ [Black Friday](https://github.com/Moaesaycto/BlackFriday) 🎮
 - [Computer System Fundamentals Notes](https://github.com/moaesaycto/comp1521-notes) ⚙️🧱
+- [Data Processing (SQL/Python)](https://github.com/Moaesaycto/Data-Processing-SQL-PY-) 📊🐍
 - [Filtered Strings (`string_view`)](https://github.com/moaesaycto/filtered-strings) ⚙️
 - [General Directed Weighted Graph](https://github.com/moaesaycto/general-directed-weighted-graph) ⚙️
 - 🔒 [Mathematical Computing (Lorenz, IRK4, Euler)](https://github.com/Moaesaycto/math2301-grpprog) 📈🌐
 - ⭐ [Optimisation Exam Generation](https://github.com/Moaesaycto/ExamGenerator) 🐍📚
 - [Paint in C (Arrays)](https://github.com/Moaesaycto/paint-in-c) ⚙️
+- [Map (ADT)](https://github.com/Moaesaycto/Map-ADT) ⚙️
 - [Mipstermind](https://github.com/moaesaycto/mipstermind) 🧱
 - [MyGive (Custom give command)](https://github.com/moaesaycto/mygive) 🐚
 - [MyGit (Custom Git clone)](https://github.com/moaesaycto/mygit) 🐍🐚
+- [Set (ADT)](https://github.com/Moaesaycto/Set-ADT) ⚙️
 - [Spotify in C (LLs)](https://github.com/moaesaycto/spotify-in-c) ⚙️
 - [Suballocator](https://github.com/moaesaycto/suballocator-example) ⚙️
 - [Word Ladder](https://github.com/moaesaycto/word-ladder) ⚙️
@@ -86,6 +90,7 @@ Please note that these links are only to find the **source code** for my project
 | 🐚          | Shell           |
 | 📚          | LaTeX           |
 | 📈          | MATLAB          |
+| 📊          | SQL          |
 
 
 </td>
