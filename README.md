@@ -52,7 +52,7 @@ Please note that these links are only to find the **source code** for my project
 
 ### Miscellaneous
 - [Character Idea Generator](https://github.com/Moaesaycto/Character-Gen) 🐍🌐
-- [DK's Minigames (Minecraft Plugin)](https://github.com/Moaesaycto/DKsMinigames) ☕
+- ⭐ [DK's Minigames (Minecraft Plugin)](https://github.com/Moaesaycto/DKsMinigames) ☕
 - ⭐🔒 [My Website](https://github.com/Moaesaycto/moaesaycto.github.io) ⚡
 - ~~<span title="Obsolete Project">[My Website (Old)](https://github.com/Moaesaycto/oldsite)</span>~~ 🌐⚡
 - ~~<span title="Obsolete Project">[Old Blog](https://github.com/Moaesaycto/moaesaycto-blog)</span>~~ 🌐
