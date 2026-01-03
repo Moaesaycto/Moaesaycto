@@ -31,6 +31,7 @@ Please note that these links are only to find the **source code** for my project
 ### Utilities
 - [Capture the Flag](https://github.com/Moaesaycto/Capture-The-Flag) 🐍⚡🌐
 - [Diet Generating System](https://github.com/Moaesaycto/rationing) 🐍
+- [Flight Tracker](https://github.com/Moaesaycto/flight-tracker) 🐍🐚
 - [LaTeX Diagram Archive](https://github.com/Moaesaycto/LaTeX-Diagram-Archive) 📚
 - [My Keto Recipes](https://github.com/Moaesaycto/moaes-recipes) ⚡
 - [Project Template](https://github.com/Moaesaycto/project-template) ⚡
